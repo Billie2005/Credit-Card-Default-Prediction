@@ -17,7 +17,7 @@ We aim to go beyond simple prediction to build a **financially interpretable** m
 
 ## Key Objectives
 
-- 📌 Build a **binary classification model** to predict customer default  
+-  Build a **binary classification model** to predict customer default  
   (`default.payment.next.month`: 1 = Default, 0 = No Default)
 
 - ⚖️ Handle **class imbalance** using techniques such as:
@@ -25,14 +25,14 @@ We aim to go beyond simple prediction to build a **financially interpretable** m
   - Class weighting
   - Downsampling
 
-- 📊 Perform **exploratory** and **financial analysis** to understand how behavioral variables impact default risk
+-  Perform **exploratory** and **financial analysis** to understand how behavioral variables impact default risk
 
-- 🔍 Analyze **behavioral trends** beyond standard EDA, including:
+-  Analyze **behavioral trends** beyond standard EDA, including:
   - Payment delays
   - Repayment consistency
   - Credit utilization
 
-- 🛠️ Engineer features that are:
+-  Engineer features that are:
   - **Financially meaningful**
   - Predictive of default risk  
   Examples include:
@@ -57,7 +57,7 @@ We aim to go beyond simple prediction to build a **financially interpretable** m
 - F1-score
 - AUC-ROC
 
-✅ Metrics should reflect **real-world credit risk trade-offs** and be aligned with business needs.
+ Metrics should reflect **real-world credit risk trade-offs** and be aligned with business needs.
 
 ---
 
