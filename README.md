@@ -20,7 +20,7 @@ We aim to go beyond simple prediction to build a **financially interpretable** m
 -  Build a **binary classification model** to predict customer default  
   (`default.payment.next.month`: 1 = Default, 0 = No Default)
 
-- ⚖️ Handle **class imbalance** using techniques such as:
+-  Handle **class imbalance** using techniques such as:
   - SMOTE (Synthetic Minority Over-sampling Technique)
   - Class weighting
   - Downsampling
